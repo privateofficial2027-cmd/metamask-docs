@@ -1,4 +1,4 @@
----
+Wallet dashboard token ---
 description: Upgrade your Infura plan.
 sidebar_position: 7
 ---
